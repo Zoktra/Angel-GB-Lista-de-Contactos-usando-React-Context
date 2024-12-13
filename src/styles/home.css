@@ -1,0 +1,21 @@
+.tarjeta {
+    word-wrap: break-word;
+    overflow: auto;
+
+}
+
+.fondo {
+    background-color: rgb(241, 231, 231);
+}
+
+.estilo {
+    text-decoration: none;
+    outline: none;
+    color: black;
+}
+ /* body {
+    background-image: url(https://img.freepik.com/foto-gratis/taza-cafe-bloc-notas-espiral-blanco-sobre-fondo-blanco_23-2147898235.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;;
+ } */
